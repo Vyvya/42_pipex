@@ -1,0 +1,9 @@
+*.o
+outfile*
+pipex
+pipex copy
+infile*
+*.txt
+.DS_Store
+.vscode
+test_pipex01/
